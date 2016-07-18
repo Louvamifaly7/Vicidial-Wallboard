@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_drop_detail" value="name:INBOUND GROUP;datatype:string,name:DATE;datatype:datetime,name:TIME BEFORE DROP;datatype:int,name:PHONE NUMBER;datatype:string" />
+</info>
