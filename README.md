@@ -6,6 +6,6 @@ Vicidial Realtime Call Statistics Tested with ViciBox: 7.0.3 | VERSION: 2.12-559
   <li>Login to http://(Vicidial Server IP)/wallboard</li>
 </ul>
 <img src="http://i.imgur.com/U7K6U8F.jpg" alt="Image">
-<img src="http://i.imgur.com/MYIHDHO.png>
-<img src="http://i.imgur.com/wbpUCbR.png>
-<img src="http://i.imgur.com/RkMQY03.png>
+<img src="http://i.imgur.com/MYIHDHO.png">
+<img src="http://i.imgur.com/wbpUCbR.png">
+<img src="http://i.imgur.com/RkMQY03.png">
