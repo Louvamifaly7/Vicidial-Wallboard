@@ -2,7 +2,7 @@
 # FileName="Connection_php_mysql.htm"
 # Type="MYSQL"
 # HTTP="true"
-$hostname_wallboard = "10.1.20.33";
+$hostname_wallboard = "localhost";
 $database_wallboard = "asterisk";
 $username_wallboard = "cron";
 $password_wallboard = "1234";
